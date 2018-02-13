@@ -1,0 +1,29 @@
+{
+  "name": "textadventure",
+  "version": "1.0.0",
+  "description": "A small command line adventure game",
+  "main": "adventure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JS-Quinn/TextAdventure.git"
+  },
+  "keywords": [
+    "text",
+    "adventure",
+    "command",
+    "line",
+    "game"
+  ],
+  "author": "Joseph S. Quinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JS-Quinn/TextAdventure/issues"
+  },
+  "homepage": "https://github.com/JS-Quinn/TextAdventure#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
